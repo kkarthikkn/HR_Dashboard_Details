@@ -4,6 +4,3 @@ It enables HR teams to analyse trends, identify skill gaps, and make data-driven
 
 <h2>HR Summary</h2>
 ![HR Summary](https://github.com/user-attachments/assets/02ea1d1b-11f2-4624-8585-5c7c1e2416d1)
-
-<h2>HR Details</h2>
-![HR Detials](https://github.com/user-attachments/assets/bbed8c56-3e41-4ce6-ba90-75bfa7b2223d)
