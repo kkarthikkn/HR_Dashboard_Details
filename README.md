@@ -3,4 +3,5 @@ The dashboard tracks KPIs like hired and terminated employees, and includes inte
 It enables HR teams to analyse trends, identify skill gaps, and make data-driven decisions with detailed employee information and real-time metrics.
 
 <h2>HR Summary</h2>
+
 ![Image](https://github.com/user-attachments/assets/b9d48f0d-42c7-49ef-af82-5fca87ee1690)
